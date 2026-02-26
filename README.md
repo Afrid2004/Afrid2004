@@ -1,6 +1,7 @@
 
 <h1>Hi, I'm Faisal Yousuf Afrid 👋</h1>
 <h2>Front-End Developer</h3>
+<img src="https://komarev.com/ghpvc/?username=Afrid2004&label=Profile%20views&color=0e75b6&style=flat" alt="Afrid2004" />
 
 <p>
   I build fast, responsive, and user-friendly web interfaces using modern front-end tools.
@@ -57,8 +58,3 @@
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
 </p>
 
-
-
-<p >
-  Thanks for visiting my profile! ⭐
-</p>
