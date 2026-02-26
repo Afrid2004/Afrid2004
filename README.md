@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi, I'm Faisal Yousuf Afrid 👋</h1>
-<h2 align="center">Front-End Developer</h3>
+<h1>Hi, I'm Faisal Yousuf Afrid 👋</h1>
+<h2>Front-End Developer</h3>
 
-<p align="center">
+<p>
   I build fast, responsive, and user-friendly web interfaces using modern front-end tools.
   <br/>
   Clean UI • Performance • SEO-friendly structure • Pixel-perfect design
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com//Afrid2004">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -48,7 +48,7 @@
 <p>
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress"/>
   <img height="36" src="https://cdn.simpleicons.org/webflow/146EF5" alt="Webflow"/>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/>
+  <img height="36" src="https://cdn.simpleicons.org/canva" alt="Canva"/>
 </p>
 
 ### 🧾 Version Control
@@ -59,6 +59,6 @@
 
 
 
-<p align="center">
+<p >
   Thanks for visiting my profile! ⭐
 </p>
