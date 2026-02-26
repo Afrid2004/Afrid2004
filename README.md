@@ -20,7 +20,7 @@
   </a>
 </p>
 
----
+
 
 ## 💼 About Me
 - 🔭 Working on modern web UI and landing pages  
@@ -28,10 +28,7 @@
 - 🧩 Comfortable with Bootstrap + Tailwind + React workflows  
 - 🌱 Always improving UI/UX & front-end best practices  
 
----
 
-## 🧰 Skills & Tools (Icons)
-> ✅ Icons are SVG and visible in both **Dark/Light** themes.
 
 ### 🌐 Front-End
 <p>
@@ -60,18 +57,8 @@
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
 </p>
 
----
 
-## 🚀 What I Can Do
-- ✅ Responsive Website (Mobile/Tablet/Desktop)
-- ✅ React UI Components & Single Page UI
-- ✅ Bootstrap / Tailwind Landing Pages
-- ✅ WordPress Theme Customization (UI-focused)
-- ✅ Webflow Page Build (Design to Web)
-- ✅ Canva Design Support (Banners, thumbnails, social creatives)
-
----
 
 <p align="center">
-  <i>Thanks for visiting my profile!</i> ⭐
+  Thanks for visiting my profile! ⭐
 </p>
