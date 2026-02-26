@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Faisal Yousuf Afrid 👋</h1>
-<h3 align="center">Front-End Developer</h3>
+<h2 align="center">Front-End Developer</h3>
 
 <p align="center">
   I build fast, responsive, and user-friendly web interfaces using modern front-end tools.
@@ -69,23 +69,6 @@
 - ✅ WordPress Theme Customization (UI-focused)
 - ✅ Webflow Page Build (Design to Web)
 - ✅ Canva Design Support (Banners, thumbnails, social creatives)
-
----
-
-## 📌 Featured Projects
-- 🔗 **Project 1:** Coming soon  
-- 🔗 **Project 2:** Coming soon  
-- 🔗 **Project 3:** Coming soon  
-
-> Tip: এখানে তোমার লাইভ প্রোজেক্ট / ডেমো লিংক যোগ করলে README আরও শক্তিশালী হবে।
-
----
-
-## 📈 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top languages" />
-</p>
 
 ---
 
