@@ -49,7 +49,7 @@
 <p>
   <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress"/>
   <img height="36" src="https://cdn.simpleicons.org/webflow/146EF5" alt="Webflow"/>
-  <img height="36" src="https://cdn.simpleicons.org/canva" alt="Canva"/>
+ <img height="36" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
 </p>
 
 ### 🧾 Version Control
